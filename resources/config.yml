@@ -1,0 +1,12 @@
+# DO NOT TOUCH! You may break your plugin.
+Version: "1.0"
+
+Prefix: "§8[§l§6G§eO§6D§r§8]§r "
+
+EnableMessage: "§aYou have been granted the power to the infinity stone!"
+DisableMessage: "§cYour power has been taken away from you!"
+
+Strength: true
+strengthAmplifier: 5
+
+Invisibility: true

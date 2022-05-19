@@ -1,0 +1,15 @@
+name: GodMode
+main: tornaido\GodMode
+version: 1.0
+api: 4.0.0
+author: Tornaido
+
+commands:
+  godmode:
+    description: "Become a god upon enable!"
+    permission: god.mode
+
+permissions:
+  god.mode:
+    default: op
+    description: "Gain access to God Mode."
